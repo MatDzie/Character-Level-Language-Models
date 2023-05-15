@@ -17,6 +17,7 @@ This is the code I created as part of learning neural networks during Andrej Kar
 ## Key topics learned during implementation:
 
 - Bigram
+- tensors
 
 ## Prerequisites
 
