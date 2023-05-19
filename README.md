@@ -20,6 +20,9 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - torch.tensor/zeros/ones
 - torch.multinomial
 - broadcasting semantics
+- product of probabilities
+- likelihood & log-likelihood
+- model smoothing
 
 ## Prerequisites
 
