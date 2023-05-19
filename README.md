@@ -23,6 +23,8 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - product of probabilities
 - likelihood & log-likelihood
 - model smoothing
+- one-hot encoding
+- matrix multiplication
 
 ## Prerequisites
 
