@@ -26,6 +26,7 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - one-hot encoding
 - matrix multiplication
 - softmax
+- weight regularization loss
 
 ## Prerequisites
 
