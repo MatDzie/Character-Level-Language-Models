@@ -25,6 +25,7 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - model smoothing
 - one-hot encoding
 - matrix multiplication
+- softmax
 
 ## Prerequisites
 
