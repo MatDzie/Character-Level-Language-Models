@@ -1,6 +1,8 @@
 # **Character Level Language Models**
 
-Based on trained database of text the model will generate new text in the same style based on character level prediction. For example if we feed databes of names the model will generate new names in the same style.
+Based on trained database of text the model will generate new text in the same style based on character level prediction. For example if we feed databes of names the model will generate new names in the same style. 
+
+Files duplicate some functions and concepts and this is intended so they are independent of each other and can be read and run separately.
 
 Implementation follows a few key papers:
 
@@ -27,6 +29,7 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - matrix multiplication
 - softmax
 - weight regularization loss
+- word embeddings
 
 ## Prerequisites
 
