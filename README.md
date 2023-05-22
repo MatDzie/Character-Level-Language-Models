@@ -30,6 +30,10 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - softmax
 - weight regularization loss
 - word embeddings
+- torch.concat
+- torch.unbind
+- torch.randn
+- tensor_name.view
 
 ## Prerequisites
 
