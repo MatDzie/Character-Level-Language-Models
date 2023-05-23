@@ -18,17 +18,22 @@ This is the code I created as part of learning neural networks during Andrej Kar
 
 ## Key topics learned during implementation:
 
+1_bigram.ipynb:
 - Bigram
 - torch.tensor/zeros/ones
 - torch.multinomial
 - broadcasting semantics
 - product of probabilities
 - likelihood & log-likelihood
+
+2_bigram_single_layer.ipynb:
 - model smoothing
 - one-hot encoding
 - matrix multiplication
 - softmax
 - weight regularization loss
+
+3_mlp.ipynb:
 - word embeddings
 - torch.concat
 - torch.unbind
@@ -42,6 +47,9 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - training set is to optimize parameters like weights, biases, embeddings
 - validation set is to choose hyperparameters like learning rate, regularization, layer size, number of layers etc.
 - test set is to evaluate the final model
+- importance of initial values of weights and biases
+- why tanh can run into vanishing gradient problem
+- dead neuron problem
 
 ## Prerequisites
 
