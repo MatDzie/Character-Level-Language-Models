@@ -2,7 +2,7 @@
 
 Based on trained database of text the model will generate new text in the same style based on character level prediction. For example if we feed databes of names the model will generate new names in the same style. 
 
-Files duplicate some functions and concepts and this is intended so they are independent of each other and can be read and run separately.
+Files duplicate some functions and concepts and this is intended so they are independent of each other and can be read and run separately. Also this repo is purely educational and most of the code is done from scratch to learn the concepts.
 
 Implementation follows a few key papers:
 
@@ -36,6 +36,12 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - tensor_name.view
 - torch.nn.functional.cross_entropy
 - minibatch
+- choosing learning rate
+- overfitting
+- idea of training 80% / dev or validation 10% / test 10% splits of data
+- training set is to optimize parameters like weights, biases, embeddings
+- validation set is to choose hyperparameters like learning rate, regularization, layer size, number of layers etc.
+- test set is to evaluate the final model
 
 ## Prerequisites
 
