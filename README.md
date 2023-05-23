@@ -35,6 +35,7 @@ This is the code I created as part of learning neural networks during Andrej Kar
 - torch.randn
 - tensor_name.view
 - torch.nn.functional.cross_entropy
+- minibatch
 
 ## Prerequisites
 
